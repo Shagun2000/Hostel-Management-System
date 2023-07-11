@@ -1,8 +1,8 @@
 // Simulated student data
 const students = [
-  { id: 1, name: "John Doe", roomNumber: 101 },
-  { id: 2, name: "Jane Smith", roomNumber: 102 },
-  { id: 3, name: "Mike Johnson", roomNumber: 103 }
+  { id: 1, name: "Ram", roomNumber: 101 },
+  { id: 2, name: "Shyam", roomNumber: 102 },
+  { id: 3, name: "Geeta", roomNumber: 103 }
 ];
 
 // Function to populate student data into the table
